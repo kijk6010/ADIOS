@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="major">
+        <item>소프트웨어학과</item>
+        <item>응용컴퓨터공학과</item>
+    </string-array>
+    <string-array name="day">
+        <item>요일</item>
+        <item>월</item>
+        <item>화</item>
+        <item>수</item>
+        <item>목</item>
+        <item>금</item>
+    </string-array>
+    <string-array name="refinement">
+        <item>군사학</item>
+        <item>교직</item>
+        <item>온라인</item>
+        <item>글로벌역량</item>
+        <item>일반교양</item>
+        <item>영역별교양</item>
+    </string-array>
+
+    <string-array name="base">
+        <item>학과기초</item>
+        <item>학부기초</item>
+        <item>공학기초</item>
+        <item>공학소양</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>2017년도</item>
+        <item>2018년도</item>
+        <item>2019년도</item>
+    </string-array>
+
+    <string-array name="term">
+        <item>1학기</item>
+        <item>여름계절학기</item>
+        <item>2학기</item>
+        <item>겨울계절학기</item>
+    </string-array>
+
+    <string-array name="area">
+        <item>교양</item>
+        <item>기초</item>
+        <item>전공선택</item>
+        <item>전공필수</item>
+    </string-array>
+    <string-array name="favorSubject">
+        <item>없음</item>
+        <item>고급프로그래밍</item>
+        <item>딥러닝/클라우드</item>
+        <item>서비스플랫폼</item>
+        <item>컴퓨터구조</item>
+        <item>멀티미디어신호처리</item>
+        <item>소프트웨어공학</item>
+        <item>시스템프로그래밍</item>
+        <item>영상정보처리</item>
+        <item>실무중심산학협력프로젝트</item>
+        <item>자료구조</item>
+        <item>공학수학2</item>
+        <item>국내인턴십1(소프트)</item>
+        <item>국내인턴십2(소프트)</item>
+        <item>기술과경영</item>
+        <item>산업체전문가멘토링</item>
+        <item>실무중심산학협력프로젝트</item>
+        <item>오토마다와컴파일러</item>
+        <item>오픈소스SW설계</item>
+        <item>운영체제보안</item>
+        <item>웹프로그래밍</item>
+        <item>운영체제보안</item>
+        <item>웹프로그래밍</item>
+        <item>인공지능</item>
+        <item>정보보호이론</item>
+        <item>프로그래밍활용</item>
+    </string-array>
+</resources>
